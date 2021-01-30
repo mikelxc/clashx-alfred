@@ -12,18 +12,6 @@
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>0D89C787-CE7A-4363-940F-AFF99023FC85</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>sourceoutputuid</key>
-				<string>4B42DDF3-92EB-4A4C-90F1-4018DA669D8B</string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-			<dict>
-				<key>destinationuid</key>
 				<string>E0A79904-F577-4248-BAD9-CE7BFFFA94A7</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -36,7 +24,7 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>CDB70F86-D301-4FDB-BA20-41B285C2EDB8</string>
+				<string>05ED12A4-B7EF-47E9-98F4-BF6B55705C51</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -60,6 +48,18 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
+				<string>EE9825C3-229E-43C9-880E-AF921D64BF12</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>4B42DDF3-92EB-4A4C-90F1-4018DA669D8B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
 				<string>5B591AAE-36F9-4ACD-8BCC-898D52B1E6F2</string>
 				<key>modifiers</key>
 				<integer>0</integer>
@@ -67,6 +67,18 @@
 				<string></string>
 				<key>sourceoutputuid</key>
 				<string>6042D2E8-5B22-4BBD-9388-05692E56D195</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>CB3F931E-7D33-43D3-99BC-7A6ED3C7C9ED</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>7B3460E6-993C-4FD7-8850-8D43F3EF8E46</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -89,6 +101,30 @@
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>99FF4987-D63E-4E5D-B4F7-C31A91977B12</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>44F57A30-FCCD-43DD-9463-85E59E0C4E29</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>99FF4987-D63E-4E5D-B4F7-C31A91977B12</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>199C6D13-8350-4F9E-A4BA-646A3A9F438E</string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -142,6 +178,19 @@
 				<false/>
 			</dict>
 		</array>
+		<key>0FEA4DCA-D31E-4050-8B42-60F3B78AFBC7</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>BB6490D2-A5DD-4B60-AE08-5DA6337FB33E</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>1EE7FD00-55DB-4C99-A5FB-8F0F77BD2D1C</key>
 		<array>
 			<dict>
@@ -155,11 +204,123 @@
 				<false/>
 			</dict>
 		</array>
+		<key>45BE6B2E-BABE-4E88-BB17-A843CDDA4C6E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0D89C787-CE7A-4363-940F-AFF99023FC85</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>5B591AAE-36F9-4ACD-8BCC-898D52B1E6F2</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
 				<string>9EB91321-8965-4647-8117-1F0AEF4716D8</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>7E9D0470-C68B-47F6-87A2-C24F07C97090</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0FEA4DCA-D31E-4050-8B42-60F3B78AFBC7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>80DA11E5-D01E-4202-9C5E-0D9B3324AC6C</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>EE9825C3-229E-43C9-880E-AF921D64BF12</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>4B42DDF3-92EB-4A4C-90F1-4018DA669D8B</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>7E9D0470-C68B-47F6-87A2-C24F07C97090</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>5471762F-A737-4CB8-BFCF-A849BE2630B1</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>DFDFFA40-B9AA-4EBE-BE32-71F71A374136</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>895D5D53-857A-4294-8DD5-F8634F1DCF82</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>92C0C789-DCAC-4D64-89C9-13EBC5B30825</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>1F4B49AC-7092-46C6-8DB7-A3840DDD336C</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>0FEA4DCA-D31E-4050-8B42-60F3B78AFBC7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>86D3F625-4B51-47FB-ABED-3426A568C5FA</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0D89C787-CE7A-4363-940F-AFF99023FC85</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>0BDC6CE9-57EB-4AA4-BA79-EC01E392A673</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>45BE6B2E-BABE-4E88-BB17-A843CDDA4C6E</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -182,13 +343,77 @@
 			</dict>
 			<dict>
 				<key>destinationuid</key>
-				<string>CDB70F86-D301-4FDB-BA20-41B285C2EDB8</string>
+				<string>05ED12A4-B7EF-47E9-98F4-BF6B55705C51</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
 				<string></string>
 				<key>sourceoutputuid</key>
 				<string>0BDC6CE9-57EB-4AA4-BA79-EC01E392A673</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>92C0C789-DCAC-4D64-89C9-13EBC5B30825</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0FEA4DCA-D31E-4050-8B42-60F3B78AFBC7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>99FF4987-D63E-4E5D-B4F7-C31A91977B12</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>CB3F931E-7D33-43D3-99BC-7A6ED3C7C9ED</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>AB5491C2-EAD3-4BFE-B5A5-212EA8E08BC3</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>E0A79904-F577-4248-BAD9-CE7BFFFA94A7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>BB6490D2-A5DD-4B60-AE08-5DA6337FB33E</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>D16821EF-C0FF-4482-956F-5143CA59DC20</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>sourceoutputuid</key>
+				<string>0BDC6CE9-57EB-4AA4-BA79-EC01E392A673</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>destinationuid</key>
+				<string>96A0B9F4-7FE5-47CB-B9C7-A5F4B8D6CBF6</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -206,13 +431,24 @@
 				<false/>
 			</dict>
 		</array>
-		<key>CDB70F86-D301-4FDB-BA20-41B285C2EDB8</key>
-		<array/>
+		<key>D21D8E0D-183D-4DE2-9CF7-FD2D64CAEE89</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>80DA11E5-D01E-4202-9C5E-0D9B3324AC6C</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
 		<key>DA1AA9D5-C1C4-4239-A1F1-82DC14F99632</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>CDB70F86-D301-4FDB-BA20-41B285C2EDB8</string>
+				<string>05ED12A4-B7EF-47E9-98F4-BF6B55705C51</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -229,6 +465,19 @@
 				<string></string>
 				<key>sourceoutputuid</key>
 				<string>0BDC6CE9-57EB-4AA4-BA79-EC01E392A673</string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>DFDFFA40-B9AA-4EBE-BE32-71F71A374136</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>0FEA4DCA-D31E-4050-8B42-60F3B78AFBC7</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
 				<key>vitoclose</key>
 				<false/>
 			</dict>
@@ -251,6 +500,19 @@
 			<dict>
 				<key>destinationuid</key>
 				<string>DA1AA9D5-C1C4-4239-A1F1-82DC14F99632</string>
+				<key>modifiers</key>
+				<integer>0</integer>
+				<key>modifiersubtext</key>
+				<string></string>
+				<key>vitoclose</key>
+				<false/>
+			</dict>
+		</array>
+		<key>EE9825C3-229E-43C9-880E-AF921D64BF12</key>
+		<array>
+			<dict>
+				<key>destinationuid</key>
+				<string>86D3F625-4B51-47FB-ABED-3426A568C5FA</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -307,7 +569,7 @@ delay 0.1tell application "System Events" to keystroke "c" using command down</
 				<key>text</key>
 				<string>Clash is already disabled</string>
 				<key>title</key>
-				<string>Sidecar</string>
+				<string>ClashX</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.output.notification</string>
@@ -500,6 +762,48 @@ delay 0.1tell application "System Events" to keystroke "c" using command down</
 						<key>uid</key>
 						<string>6042D2E8-5B22-4BBD-9388-05692E56D195</string>
 					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>open</string>
+						<key>outputlabel</key>
+						<string>Open the clashx app</string>
+						<key>uid</key>
+						<string>7B3460E6-993C-4FD7-8850-8D43F3EF8E46</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>quit</string>
+						<key>outputlabel</key>
+						<string>Quit the clashx app</string>
+						<key>uid</key>
+						<string>44F57A30-FCCD-43DD-9463-85E59E0C4E29</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>restart</string>
+						<key>outputlabel</key>
+						<string>Restart the app</string>
+						<key>uid</key>
+						<string>199C6D13-8350-4F9E-A4BA-646A3A9F438E</string>
+					</dict>
 				</array>
 				<key>elselabel</key>
 				<string>else</string>
@@ -510,6 +814,34 @@ delay 0.1tell application "System Events" to keystroke "c" using command down</
 			<string>05DED948-04F0-4ED0-8487-7405AF98EAF8</string>
 			<key>version</key>
 			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>ignoring application responses
+try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end try
+end ignoring
+delay 0.1do shell script "killall System\\ Events"
+delay 0.1tell application "System Events" to keystroke "s" using command down
+delay 1</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>05ED12A4-B7EF-47E9-98F4-BF6B55705C51</string>
+			<key>version</key>
+			<integer>2</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -558,29 +890,23 @@ delay 0.1tell application "System Events" to keystroke "c" using command down</
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
+				<key>lastpathcomponent</key>
 				<false/>
-				<key>escaping</key>
-				<integer>68</integer>
-				<key>script</key>
-				<string>ignoring application responses
-try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end try
-end ignoring
-delay 0.1do shell script "killall System\\ Events"
-tell application "System Events" to keystroke "s" using command down</string>
-				<key>scriptargtype</key>
-				<integer>0</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>6</integer>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Proxy is already enabled</string>
+				<key>title</key>
+				<string>ClashX</string>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.script</string>
+			<string>alfred.workflow.output.notification</string>
 			<key>uid</key>
-			<string>CDB70F86-D301-4FDB-BA20-41B285C2EDB8</string>
+			<string>BFA42EFD-EDC2-4B72-A0A5-ECFE1EFAC00C</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -604,27 +930,6 @@ delay 0.1do shell script "killall System\\ Events"
 			<string>E804755E-727D-4CE5-ABB3-119858071F9C</string>
 			<key>version</key>
 			<integer>2</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>lastpathcomponent</key>
-				<false/>
-				<key>onlyshowifquerypopulated</key>
-				<false/>
-				<key>removeextension</key>
-				<false/>
-				<key>text</key>
-				<string>Proxy is already enabled</string>
-				<key>title</key>
-				<string>Sidecar</string>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.output.notification</string>
-			<key>uid</key>
-			<string>BFA42EFD-EDC2-4B72-A0A5-ECFE1EFAC00C</string>
-			<key>version</key>
-			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -675,6 +980,82 @@ echo "Proxy enabled"</string>
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>bash test.sh</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>EE9825C3-229E-43C9-880E-AF921D64BF12</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>Yes</string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>0BDC6CE9-57EB-4AA4-BA79-EC01E392A673</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>86D3F625-4B51-47FB-ABED-3426A568C5FA</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>bash traffic.sh</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>5B591AAE-36F9-4ACD-8BCC-898D52B1E6F2</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alignment</key>
 				<integer>0</integer>
 				<key>backgroundcolor</key>
@@ -702,25 +1083,63 @@ echo "Proxy enabled"</string>
 		<dict>
 			<key>config</key>
 			<dict>
-				<key>concurrently</key>
-				<false/>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>script</key>
-				<string>bash traffic.sh</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>type</key>
-				<integer>0</integer>
+				<key>applescript</key>
+				<string>on alfred_script(q)
+  ignoring application responses
+try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end try
+end ignoring
+delay 0.1do shell script "killall System\\ Events"
+tell application "System Events" to keystroke "s" using command down
+
+delay 1
+end alfred_script</string>
+				<key>cachescript</key>
+				<true/>
 			</dict>
 			<key>type</key>
-			<string>alfred.workflow.action.script</string>
+			<string>alfred.workflow.action.applescript</string>
 			<key>uid</key>
-			<string>5B591AAE-36F9-4ACD-8BCC-898D52B1E6F2</string>
+			<string>45BE6B2E-BABE-4E88-BB17-A843CDDA4C6E</string>
 			<key>version</key>
-			<integer>2</integer>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>poff</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Turn off the proxy</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>AB5491C2-EAD3-4BFE-B5A5-212EA8E08BC3</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>paths</key>
+				<array>
+					<string>/Applications/ClashX.app</string>
+				</array>
+				<key>toggle</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.launchfiles</string>
+			<key>uid</key>
+			<string>CB3F931E-7D33-43D3-99BC-7A6ED3C7C9ED</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 		<dict>
 			<key>config</key>
@@ -751,13 +1170,17 @@ delay 0.1tell application "System Events" to keystroke "d" using command down</
 			<key>config</key>
 			<dict>
 				<key>concurrently</key>
-				<false/>
+				<true/>
 				<key>escaping</key>
 				<integer>68</integer>
 				<key>script</key>
-				<string>ignoring application responses	try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end tryend ignoring
+				<string>ignoring application responses
+try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end try
+end ignoring
 delay 0.1do shell script "killall System\\ Events"
-delay 0.1tell application "System Events" to keystroke "g" using option down</string>
+tell application "System Events" to keystroke "q" using command down
+
+delay 1</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
 				<key>scriptfile</key>
@@ -768,7 +1191,7 @@ delay 0.1tell application "System Events" to keystroke "g" using option down</s
 			<key>type</key>
 			<string>alfred.workflow.action.script</string>
 			<key>uid</key>
-			<string>7DD6D7E3-96F1-489D-8964-34B7CA51E88C</string>
+			<string>99FF4987-D63E-4E5D-B4F7-C31A91977B12</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -807,6 +1230,31 @@ delay 0.1tell application "System Events" to keystroke "r" using option down</s
 				<key>script</key>
 				<string>ignoring application responses	try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end tryend ignoring
 delay 0.1do shell script "killall System\\ Events"
+delay 0.1tell application "System Events" to keystroke "g" using option down</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7DD6D7E3-96F1-489D-8964-34B7CA51E88C</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>ignoring application responses	try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end tryend ignoring
+delay 0.1do shell script "killall System\\ Events"
 delay 0.1tell application "System Events" to keystroke "d" using option down</string>
 				<key>scriptargtype</key>
 				<integer>0</integer>
@@ -821,6 +1269,277 @@ delay 0.1tell application "System Events" to keystroke "d" using option down</s
 			<string>F7168A84-1201-4BBD-B642-69E9004B5F22</string>
 			<key>version</key>
 			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>ignoring application responses	try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end tryend ignoring
+delay 0.1do shell script "killall System\\ Events"
+delay 0.1tell application "System Events" to keystroke "r" using option down</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>7E9D0470-C68B-47F6-87A2-C24F07C97090</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>ignoring application responses	try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end tryend ignoring
+delay 0.1do shell script "killall System\\ Events"
+delay 0.1tell application "System Events" to keystroke "d" using option down</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>92C0C789-DCAC-4D64-89C9-13EBC5B30825</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>ignoring application responses	try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end tryend ignoring
+delay 0.1do shell script "killall System\\ Events"
+delay 0.1tell application "System Events" to keystroke "g" using option down</string>
+				<key>scriptargtype</key>
+				<integer>0</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>DFDFFA40-B9AA-4EBE-BE32-71F71A374136</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>global</string>
+						<key>outputlabel</key>
+						<string>Use global</string>
+						<key>uid</key>
+						<string>895D5D53-857A-4294-8DD5-F8634F1DCF82</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>rule</string>
+						<key>outputlabel</key>
+						<string>Use rule</string>
+						<key>uid</key>
+						<string>5471762F-A737-4CB8-BFCF-A849BE2630B1</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>direct</string>
+						<key>outputlabel</key>
+						<string>Use direct</string>
+						<key>uid</key>
+						<string>1F4B49AC-7092-46C6-8DB7-A3840DDD336C</string>
+					</dict>
+					<dict>
+						<key>inputstring</key>
+						<string></string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>0</integer>
+						<key>matchstring</key>
+						<string>terminal</string>
+						<key>outputlabel</key>
+						<string>Open a terminal window with proxy</string>
+						<key>uid</key>
+						<string>4B42DDF3-92EB-4A4C-90F1-4018DA669D8B</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>80DA11E5-D01E-4202-9C5E-0D9B3324AC6C</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>lastpathcomponent</key>
+				<false/>
+				<key>onlyshowifquerypopulated</key>
+				<false/>
+				<key>removeextension</key>
+				<false/>
+				<key>text</key>
+				<string>Proxy is already enabled</string>
+				<key>title</key>
+				<string>ClashX</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.output.notification</string>
+			<key>uid</key>
+			<string>D16821EF-C0FF-4482-956F-5143CA59DC20</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>68</integer>
+				<key>script</key>
+				<string>ignoring application responses
+try		tell application "System Events" to tell process "ClashX"			click menu bar item 1 of menu bar 2		end tell	on error		display dialog "Cannot find ClashX on your menu bar"	end try
+end ignoring
+delay 0.1do shell script "killall System\\ Events"
+delay 0.1tell application "System Events" to keystroke "s" using command down
+
+delay 1</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>6</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>96A0B9F4-7FE5-47CB-B9C7-A5F4B8D6CBF6</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>concurrently</key>
+				<false/>
+				<key>escaping</key>
+				<integer>102</integer>
+				<key>script</key>
+				<string>bash test.sh</string>
+				<key>scriptargtype</key>
+				<integer>1</integer>
+				<key>scriptfile</key>
+				<string></string>
+				<key>type</key>
+				<integer>0</integer>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.script</string>
+			<key>uid</key>
+			<string>0FEA4DCA-D31E-4050-8B42-60F3B78AFBC7</string>
+			<key>version</key>
+			<integer>2</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>argumenttype</key>
+				<integer>1</integer>
+				<key>keyword</key>
+				<string>pon</string>
+				<key>subtext</key>
+				<string></string>
+				<key>text</key>
+				<string>Turn on the proxy</string>
+				<key>withspace</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.input.keyword</string>
+			<key>uid</key>
+			<string>D21D8E0D-183D-4DE2-9CF7-FD2D64CAEE89</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
+				<key>conditions</key>
+				<array>
+					<dict>
+						<key>inputstring</key>
+						<string>{query}</string>
+						<key>matchcasesensitive</key>
+						<false/>
+						<key>matchmode</key>
+						<integer>4</integer>
+						<key>matchstring</key>
+						<string>Yes</string>
+						<key>outputlabel</key>
+						<string></string>
+						<key>uid</key>
+						<string>0BDC6CE9-57EB-4AA4-BA79-EC01E392A673</string>
+					</dict>
+				</array>
+				<key>elselabel</key>
+				<string>else</string>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.utility.conditional</string>
+			<key>uid</key>
+			<string>BB6490D2-A5DD-4B60-AE08-5DA6337FB33E</string>
+			<key>version</key>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>readme</key>
@@ -842,6 +1561,13 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>125</integer>
 		</dict>
+		<key>05ED12A4-B7EF-47E9-98F4-BF6B55705C51</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1030</integer>
+			<key>ypos</key>
+			<integer>175</integer>
+		</dict>
 		<key>09172A3C-472F-4347-81E4-805CFD0DA206</key>
 		<dict>
 			<key>xpos</key>
@@ -858,6 +1584,13 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>55</integer>
 		</dict>
+		<key>0FEA4DCA-D31E-4050-8B42-60F3B78AFBC7</key>
+		<dict>
+			<key>xpos</key>
+			<integer>820</integer>
+			<key>ypos</key>
+			<integer>1055</integer>
+		</dict>
 		<key>1EE7FD00-55DB-4C99-A5FB-8F0F77BD2D1C</key>
 		<dict>
 			<key>xpos</key>
@@ -865,12 +1598,19 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>185</integer>
 		</dict>
+		<key>45BE6B2E-BABE-4E88-BB17-A843CDDA4C6E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1230</integer>
+			<key>ypos</key>
+			<integer>460</integer>
+		</dict>
 		<key>5B591AAE-36F9-4ACD-8BCC-898D52B1E6F2</key>
 		<dict>
 			<key>xpos</key>
-			<integer>525</integer>
+			<integer>550</integer>
 			<key>ypos</key>
-			<integer>360</integer>
+			<integer>415</integer>
 		</dict>
 		<key>79077B04-6C3A-4369-A688-3430CD78742E</key>
 		<dict>
@@ -886,6 +1626,27 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>860</integer>
 		</dict>
+		<key>7E9D0470-C68B-47F6-87A2-C24F07C97090</key>
+		<dict>
+			<key>xpos</key>
+			<integer>765</integer>
+			<key>ypos</key>
+			<integer>930</integer>
+		</dict>
+		<key>80DA11E5-D01E-4202-9C5E-0D9B3324AC6C</key>
+		<dict>
+			<key>xpos</key>
+			<integer>175</integer>
+			<key>ypos</key>
+			<integer>1035</integer>
+		</dict>
+		<key>86D3F625-4B51-47FB-ABED-3426A568C5FA</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1120</integer>
+			<key>ypos</key>
+			<integer>390</integer>
+		</dict>
 		<key>8FFB7263-3FEA-4D93-8548-0BD80C4EF6F7</key>
 		<dict>
 			<key>xpos</key>
@@ -893,21 +1654,44 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>120</integer>
 		</dict>
+		<key>92C0C789-DCAC-4D64-89C9-13EBC5B30825</key>
+		<dict>
+			<key>xpos</key>
+			<integer>930</integer>
+			<key>ypos</key>
+			<integer>935</integer>
+		</dict>
+		<key>96A0B9F4-7FE5-47CB-B9C7-A5F4B8D6CBF6</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1180</integer>
+			<key>ypos</key>
+			<integer>1050</integer>
+		</dict>
+		<key>99FF4987-D63E-4E5D-B4F7-C31A91977B12</key>
+		<dict>
+			<key>note</key>
+			<string>Toggle</string>
+			<key>xpos</key>
+			<integer>630</integer>
+			<key>ypos</key>
+			<integer>745</integer>
+		</dict>
 		<key>9EB91321-8965-4647-8117-1F0AEF4716D8</key>
 		<dict>
 			<key>xpos</key>
-			<integer>775</integer>
+			<integer>770</integer>
 			<key>ypos</key>
-			<integer>360</integer>
+			<integer>420</integer>
 		</dict>
 		<key>A0FBAC45-A508-4B1A-886F-93ACD95858AA</key>
 		<dict>
 			<key>note</key>
 			<string>Status</string>
 			<key>xpos</key>
-			<integer>225</integer>
+			<integer>250</integer>
 			<key>ypos</key>
-			<integer>605</integer>
+			<integer>635</integer>
 		</dict>
 		<key>A7C811D8-A39B-42F0-892B-3C414D36C694</key>
 		<dict>
@@ -916,12 +1700,26 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>90</integer>
 		</dict>
+		<key>AB5491C2-EAD3-4BFE-B5A5-212EA8E08BC3</key>
+		<dict>
+			<key>xpos</key>
+			<integer>15</integer>
+			<key>ypos</key>
+			<integer>555</integer>
+		</dict>
+		<key>BB6490D2-A5DD-4B60-AE08-5DA6337FB33E</key>
+		<dict>
+			<key>xpos</key>
+			<integer>945</integer>
+			<key>ypos</key>
+			<integer>1075</integer>
+		</dict>
 		<key>BFA42EFD-EDC2-4B72-A0A5-ECFE1EFAC00C</key>
 		<dict>
 			<key>xpos</key>
-			<integer>740</integer>
+			<integer>730</integer>
 			<key>ypos</key>
-			<integer>225</integer>
+			<integer>210</integer>
 		</dict>
 		<key>C923DD5D-72F9-4E82-889D-41C99F15B511</key>
 		<dict>
@@ -930,14 +1728,26 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>195</integer>
 		</dict>
-		<key>CDB70F86-D301-4FDB-BA20-41B285C2EDB8</key>
+		<key>CB3F931E-7D33-43D3-99BC-7A6ED3C7C9ED</key>
 		<dict>
-			<key>note</key>
-			<string>Toggle</string>
 			<key>xpos</key>
-			<integer>1045</integer>
+			<integer>615</integer>
 			<key>ypos</key>
-			<integer>200</integer>
+			<integer>625</integer>
+		</dict>
+		<key>D16821EF-C0FF-4482-956F-5143CA59DC20</key>
+		<dict>
+			<key>xpos</key>
+			<integer>1015</integer>
+			<key>ypos</key>
+			<integer>1045</integer>
+		</dict>
+		<key>D21D8E0D-183D-4DE2-9CF7-FD2D64CAEE89</key>
+		<dict>
+			<key>xpos</key>
+			<integer>15</integer>
+			<key>ypos</key>
+			<integer>1060</integer>
 		</dict>
 		<key>DA1AA9D5-C1C4-4239-A1F1-82DC14F99632</key>
 		<dict>
@@ -945,6 +1755,13 @@ global/rule/direct to switch the mode.</string>
 			<integer>660</integer>
 			<key>ypos</key>
 			<integer>240</integer>
+		</dict>
+		<key>DFDFFA40-B9AA-4EBE-BE32-71F71A374136</key>
+		<dict>
+			<key>xpos</key>
+			<integer>605</integer>
+			<key>ypos</key>
+			<integer>935</integer>
 		</dict>
 		<key>E0A79904-F577-4248-BAD9-CE7BFFFA94A7</key>
 		<dict>
@@ -960,6 +1777,13 @@ global/rule/direct to switch the mode.</string>
 			<key>ypos</key>
 			<integer>220</integer>
 		</dict>
+		<key>EE9825C3-229E-43C9-880E-AF921D64BF12</key>
+		<dict>
+			<key>xpos</key>
+			<integer>970</integer>
+			<key>ypos</key>
+			<integer>370</integer>
+		</dict>
 		<key>F7168A84-1201-4BBD-B642-69E9004B5F22</key>
 		<dict>
 			<key>xpos</key>
@@ -971,7 +1795,7 @@ global/rule/direct to switch the mode.</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0.0</string>
+	<string>1.1.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/mikelxc/clashx-alfred</string>
 </dict>
